@@ -1,0 +1,65 @@
+String : it is immutable class in java because we can not change value from actual address.
+
+String as a reference : Pool Memory
+
+String s="hello";
+String s1 = "hello";
+
+if(s==s1)
+{
+    System.out.println("equall");
+}
+else
+{
+    System.out.println("not equall");
+}
+
+String as an Object:   Private Heap Memory 
+
+String obj = new String("hello");
+String obj1 = new String("hello");
+
+
+if(s==obj1)
+{
+    System.out.println("equall");
+}
+else
+{
+    System.out.println("not equall");
+}
+
+.............................................................
+
+Based on Scope:
+
+1) Global: outside of function
+
+2) Local:  inside function 
+
+Basic on Memory Allocation
+
+1)  Static or Class type: it provide shared memory space with constant memory(one time memory allocation) 
+
+static datatype variablename=value;
+
+2)  Instance or Dynamic or non-static : it provide individual memory space for each object.
+
+data type variablename=value;
+
+class Student
+{
+    static String collegename="MIT";
+    String name;
+
+    
+
+}
+
+static variable always access by Classname.
+
+non static variable will be access by object.
+
+
+
+
