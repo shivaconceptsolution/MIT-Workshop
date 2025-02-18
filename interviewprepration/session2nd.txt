@@ -143,6 +143,35 @@ Write a program to search the element using linear and binary  search alogorithm
 github.com/shivaconceptsolution
 
 
+String related question:
+
+1) Write a program to check pallindrom?
+
+2) Write a program to count frequency of character in any word?
+
+3) Write a program to print max length pallindrom in paragraph?
+
+4) Write a program to find max character in each word of paragraph?
+
+5) Write a program to convert String from upper case to lower case and lower case to upper case?
+
+6) Write a program to validate emailid?
+
+manishkumar@gmail.com
+
+
+7) Write a program to validate name?
+
+8) Write a program to validate password that password should be strong if it contains 3 special char and length is above six otherwise weak password?
+
+9) write a program sort the name character in desc order?
+
+10) find max length word in paragraph?
+
+
+
+
+
 
 
 
