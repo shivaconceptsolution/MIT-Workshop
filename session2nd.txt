@@ -1,0 +1,210 @@
+Loop:
+
+1) while : it is for infinite loop or relative condition.
+
+while(true)
+{
+
+
+}
+
+2)  for 
+
+for(;true;)
+{
+
+}
+
+
+
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+.........................
+
+i     j
+1     1
+2     2
+3     3
+4     4
+5     5
+......................
+
+A B C D E
+a b c d
+A B C
+a b
+A
+..................................
+i   j
+1   5
+2   4
+3   3
+4   2
+5   1
+........................................
+1 0 0 1 0
+1 0 0 1
+1 0 0
+1 0
+1
+
+......................
+Break and Continue
+
+program to check even odd without using if--else and ternary operator?
+
+String result = (condition)?true:false;
+
+Switch  or Match--case
+
+switch(option)   //option==optionvalue
+{
+    case optionvalue:
+      statement;
+      break;
+    .....
+    .....
+    default:
+      statement;
+      break;
+
+
+}
+
+class SwitchEO
+{
+    psvm()
+    {
+       int num=45;
+       switch(num%2)
+       {
+         case 0:
+          switch()
+           {
+
+           }
+         default:
+          System.out.println("Odd");
+          break;
+       }
+
+    }
+
+}
+
+.............................................
+What is Array?
+
+it is primary data structure that is used to contain set of elements using proper sequence, it can store multiple values under single variable that is used to optimise program code.
+
+
+
+datatype [] arrayname ={"value",...}
+
+datatype arrayname[] = {"value1","value2",...}
+
+datatype arrayname[] = new datatype[size];
+
+
+Write a program to find second max element in array without using sorting?
+
+Write a Program to display unique element in array?
+
+int arr[] = {1,2,3,3,4,5,6,5}
+
+o/p  1,2,4,6
+
+Write a Program to display repeated element in array?
+
+o/p  3,5
+
+Write a Program to merge two array in one array?
+
+int x[] = {4,5,6}
+int y[] = {1,2,3,7}
+
+o/p
+int z[] = {4,5,6,1,2,3,7}
+
+Write a Program to split one array into two different sub array?
+
+int z[] = {1,3,9,7,4,5,2,1,8}
+int x[] = {1,3,9,7,4}
+int y[] = {5,2,1,8}
+
+Write a program to sort the array using asc | desc order?
+
+Write a program to search the element using linear and binary  search alogorithm?
+
+
+github.com/shivaconceptsolution
+
+
+String related question:
+
+1) Write a program to check pallindrom?
+
+2) Write a program to count frequency of character in any word?
+
+3) Write a program to print max length pallindrom in paragraph?
+
+4) Write a program to find max character in each word of paragraph?
+
+5) Write a program to convert String from upper case to lower case and lower case to upper case?
+
+6) Write a program to validate emailid?
+
+manishkumar@gmail.com
+
+
+7) Write a program to validate name?
+
+8) Write a program to validate password that password should be strong if it contains 3 special char and length is above six otherwise weak password?
+
+9) write a program sort the name character in desc order?
+
+10) find max length word in paragraph?
+
+.......................................
+
+Multidimensional Array:
+
+datatype arrayname[][] = new datatype[row][column];
+
+int arr[][] = new int[2][2];
+
+Jagged Array:
+
+datatype arrayname[][] = new datatype[row][];
+
+int arr[][] = new int[2][];
+arr[0] = {1,2};
+arr[1]= {1,2,3,4,5};
+
+Object Array:
+
+Object arr[] = {12,"C",true,12.34F};
+
+
+
+
+Addition and Multiplication of matrix?
+Transpose of Matrix?
+Find max element for each row of matrix?
+Find Second max element for complete matrix?
+Display prime element in complete matrix?
+Display sum of even element and odd element separatly in jagged row element.
+
+
+
+
+
+
+
+
+
+
+
